@@ -1,0 +1,25 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "weeeeee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awhit012/demo.git"
+  },
+  "keywords": [
+    "weeeeee"
+  ],
+  "author": "Alex White <awhit012@gmail.com> (http://www.awhit012.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/awhit012/demo/issues"
+  },
+  "homepage": "https://github.com/awhit012/demo#readme",
+  "dependencies": {
+    "express": "4.13.3"
+  }
+}
